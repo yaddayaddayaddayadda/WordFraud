@@ -1,7 +1,9 @@
 # WordFraud
 A simple script that guides you to victory at Wordfeud. 
+
 Built on various CNNs to transcribe the board and greedily search for the
 highest scoring word in the next round. 
+
 Currently only supports Swedish and iPhone 13/14. The solver script is however easily modifiable for any language and any device, as all you have to do is change the dictionary (as of writing this is SAOL_AUGMENTED.txt) and scale the input image accordingly. 
 
 # Usage
